@@ -1,3 +1,6 @@
+According to https://github.com/Grisshink/scrap/pull/46 and a personal conversation with Grisshink, it has become clear that I rushed a bit, since Scrap currently lacks proper OS interaction, so implementing something like this now would be shooting oneself in the foot.  
+**Therefore, this TCP and UDP implementation in Scrap is now a public archive.**
+
 ![Scrap splash](/extras/scrap_splash_v2.png)
 
 # Scrap
